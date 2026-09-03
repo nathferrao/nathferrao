@@ -7,7 +7,7 @@ https://github.com/
 
 
 
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou Náthaly Ferrão
 
 ### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
 
