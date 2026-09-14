@@ -1,11 +1,3 @@
- https://www.w3schools.com/
-https://github.com/
-
-
-
-https://github.com/
-
-
 
 # 👋 Olá, eu sou Náthaly Ferrão
 
