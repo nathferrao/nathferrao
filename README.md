@@ -1,7 +1,7 @@
 
-# 👋 Olá, eu sou Náthaly Ferrão
+# 👋 Olá, eu sou Náthaly Ferrão!
 
-### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
+### "99 bugs no código... consertei um... 127 bugs no código." 🐛
 
 Atuo conectando **[PILAR 1], [PILAR 2], [PILAR 3]** para criar [RESULTADO TANGÍVEL] e impulsionar [CONTEXTO].
 
@@ -11,11 +11,11 @@ Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COM
 
 ## 🚀 Sobre mim
 
-* 🎓 [Titulação/Curso - Instituição]
+* 🎓 Estudante/Técnico em Desenvolvimento de Sistemas -Senac RS
 * 💻 [Especialidade técnica principal]
 * 🤖 [Interesse em IA/Automação/Dados - escolha seu foco]
 * 📊 [Uma habilidade transversal - liderança, comunicação, análise]
-* 🌱 [Aprendizado em progresso]
+* 🌱 Algoritimos em Python e C.
 * 🎯 [Sua motivação em 1 linha]
 
 ---
